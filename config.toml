@@ -1,5 +1,6 @@
 baseURL = "https://kempkens.io"
 title   = "Daniel Kempkens"
+defaultContentLanguage = "de"
 languageCode = "de-de"
 theme = "hello-friend-ng"
 
@@ -17,6 +18,7 @@ disableKinds = ["taxonomy", "term", "RSS"]
     logoMark = "$"
     logoText = "cd /home/"
     logoHomeLink = "/"
+    logoCursorColor = "#ffa86a"
 
   [[params.social]]
     name = "github"
