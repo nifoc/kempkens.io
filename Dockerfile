@@ -1,4 +1,4 @@
-FROM klakegg/hugo:onbuild AS hugo
+FROM klakegg/hugo:ext-alpine-onbuild AS hugo
 
 FROM nginx:mainline-alpine
 
