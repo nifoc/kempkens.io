@@ -1,5 +1,5 @@
 baseURL = "https://kempkens.io"
-title   = "Daniel Kempkens"
+title = "Daniel Kempkens"
 defaultContentLanguage = "de"
 languageCode = "de-de"
 theme = "hello-friend-ng"
@@ -8,32 +8,32 @@ enableRobotsTXT = true
 disableKinds = ["taxonomy", "term", "RSS"]
 
 [params]
-  homeSubtitle = "Anwendungsentwickler"
+homeSubtitle = "Anwendungsentwickler"
 
-  disableReadOtherPosts = true
-  enableSharingButtons = false
-  enableGlobalLanguageMenu = false
+disableReadOtherPosts = true
+enableSharingButtons = false
+enableGlobalLanguageMenu = false
 
-  [params.logo]
-    logoMark = "$"
-    logoText = "cd /home/"
-    logoHomeLink = "/"
-    logoCursorColor = "#ffa86a"
+[params.logo]
+logoMark = "$"
+logoText = "cd /home/"
+logoHomeLink = "/"
+logoCursorColor = "#ffa86a"
 
-  [[params.social]]
-    name = "github"
-    url = "https://github.com/nifoc"
+[[params.social]]
+name = "github"
+url = "https://github.com/nifoc"
 
-  [[params.social]]
-    name = "linkedin"
-    url = "https://www.linkedin.com/in/danielkempkens/"
+[[params.social]]
+name = "linkedin"
+url = "https://www.linkedin.com/in/danielkempkens/"
 
-  [[params.social]]
-    name = "ycombinator"
-    url = "https://news.ycombinator.com/user?id=nifoc"
+[[params.social]]
+name = "ycombinator"
+url = "https://news.ycombinator.com/user?id=nifoc"
 
 [menu]
-  [[menu.main]]
-    identifier = "blog"
-    name = "Blog"
-    url = "https://blog.kempkens.io"
+[[menu.main]]
+identifier = "blog"
+name = "Blog"
+url = "https://blog.kempkens.io"

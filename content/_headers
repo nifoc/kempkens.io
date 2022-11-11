@@ -1,3 +1,6 @@
+/.well-known/matrix/server
+  Content-Type: application/json
+
 https://kempkens.io/*
   X-Frame-Options: DENY
   X-XSS-Protection: 1; mode=block
