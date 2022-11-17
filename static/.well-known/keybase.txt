@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/nifoc
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://kempkens.io
+  * I am nifoc (https://keybase.io/nifoc) on keybase.
+  * I have a public key ASCpPzxRGeuio5CvnKPLM515zF9tQOjROIjPD9CXJ5iTSQo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120a93f3c5119eba2a390af9ca3cb339d79cc5f6d40e8d13888cf0fd097279893490a",
+      "host": "keybase.io",
+      "kid": "0120a93f3c5119eba2a390af9ca3cb339d79cc5f6d40e8d13888cf0fd097279893490a",
+      "uid": "8e2dc1fa67c9f44e6b8f7768636ab800",
+      "username": "nifoc"
+    },
+    "merkle_root": {
+      "ctime": 1668728823,
+      "hash": "196a286d93a62523dc2628c4268dfece7c13e6f687198dc6378c0a6b174a2ca19cd6961ac80ee8a4036181110bc72675eee7e5162a27c0d7abeeb9a8f7f46492",
+      "hash_meta": "3b2fa52ec225ab88f150b8427c457d0b2378350b139ce2f1483527dbc5d5d31d",
+      "seqno": 23570938
+    },
+    "service": {
+      "entropy": "MkFzfcvVRPm2sf2ILiVPcnVn",
+      "hostname": "kempkens.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "6.0.1"
+  },
+  "ctime": 1668728877,
+  "expire_in": 504576000,
+  "prev": "a5cdc665f70dd13b1088dbe92c58bacfd1068a39e5cab64371d4535085e5dde7",
+  "seqno": 32,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgqT88URnroqOQr5yjyzOdecxfbUDo0TiIzw/QlyeYk0kKp3BheWxvYWTESpcCIMQgpc3GZfcN0TsQiNvpLFi6z9EGijnlyrZDcdRTUIXl3efEIJCfjwfdDmmQjOoyyMXVT9wBVmX20hMO9yomz3ObhRNhAgHCo3NpZ8RA426tB7+8LoHzHmp+CYzY9ZDoV+7GFiCVT7RW6WPs67SPnoU18j59wcYdkk5e92760UMjCb2f/AficppsgqCVCahzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIN5Gzl+yddkPB3QqjRWu/pOqydYCkiU50qTc3lofDRzio3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/nifoc
+
+==================================================================
