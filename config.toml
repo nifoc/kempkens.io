@@ -25,12 +25,20 @@ name = "github"
 url = "https://github.com/nifoc"
 
 [[params.social]]
+name = "keybase"
+url = "https://keybase.io/nifoc"
+
+[[params.social]]
 name = "linkedin"
 url = "https://www.linkedin.com/in/danielkempkens/"
 
 [[params.social]]
 name = "ycombinator"
 url = "https://news.ycombinator.com/user?id=nifoc"
+
+[[params.social]]
+name = "matrix"
+url = "https://matrix.to/#/@daniel:kempkens.io"
 
 [menu]
 [[menu.main]]
