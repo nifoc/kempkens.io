@@ -37,6 +37,10 @@ name = "ycombinator"
 url = "https://news.ycombinator.com/user?id=nifoc"
 
 [[params.social]]
+name = "mastodon"
+url = "https://infosec.exchange/@nifoc"
+
+[[params.social]]
 name = "matrix"
 url = "https://matrix.to/#/@daniel:kempkens.io"
 
