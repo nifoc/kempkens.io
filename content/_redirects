@@ -1,1 +1,2 @@
+/.well-known/webfinger?* https://mastodon.kempkens.io/.well-known/webfinger?:splat 301
 /.well-known/webfinger/* https://mastodon.kempkens.io/.well-known/webfinger/:splat 301
