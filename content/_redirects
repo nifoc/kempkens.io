@@ -1,2 +1,3 @@
-/.well-known/webfinger?resource=:res https://mastodon.kempkens.io/.well-known/webfinger?resource=:res 301
+/.well-known/host-meta https://mastodon.kempkens.io/.well-known/host-meta 301
+/.well-known/webfinger https://mastodon.kempkens.io/.well-known/webfinger 301
 /.well-known/webfinger/* https://mastodon.kempkens.io/.well-known/webfinger/:splat 301
