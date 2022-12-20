@@ -23,26 +23,32 @@ logoCursorColor = "#ffa86a"
 [[params.social]]
 name = "github"
 url = "https://github.com/nifoc"
+rel = "me"
 
 [[params.social]]
 name = "keybase"
 url = "https://keybase.io/nifoc"
+rel = "me"
 
 [[params.social]]
 name = "linkedin"
 url = "https://www.linkedin.com/in/danielkempkens/"
+rel = "me"
 
 [[params.social]]
 name = "ycombinator"
 url = "https://news.ycombinator.com/user?id=nifoc"
+rel = "me"
 
 [[params.social]]
 name = "mastodon"
 url = "https://mastodon.kempkens.io/@daniel"
+rel = "me"
 
 [[params.social]]
 name = "matrix"
 url = "https://matrix.to/#/@daniel:kempkens.io"
+rel = "me"
 
 [menu]
 [[menu.main]]
