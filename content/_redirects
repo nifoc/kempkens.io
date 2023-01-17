@@ -1,3 +1,4 @@
+/id https://keyoxide.org/028BCE9BABB5145AAAA1FB8410BE1D47E5ADFF92 307
 /.well-known/host-meta https://mastodon.kempkens.io/.well-known/host-meta 301
 /.well-known/webfinger https://mastodon.kempkens.io/.well-known/webfinger 301
 /.well-known/webfinger/* https://mastodon.kempkens.io/.well-known/webfinger/:splat 301
