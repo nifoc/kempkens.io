@@ -1,9 +1,0 @@
-/.well-known/matrix/server
-  Content-Type: application/json
-
-https://kempkens.io/*
-  X-Frame-Options: DENY
-  X-XSS-Protection: 1; mode=block
-  X-Content-Type-Options: nosniff
-  Referrer-Policy: no-referrer
-  Content-Security-Policy: default-src 'none'; manifest-src https://kempkens.io; script-src 'self'; img-src 'self'; style-src 'self' 'unsafe-inline' https://cdnjs.cloudflare.com; font-src 'self'; form-action 'none'; frame-ancestors 'none'; base-uri 'self'
