@@ -47,7 +47,7 @@ rel = "me"
 
 [[params.social]]
 name = "mastodon"
-url = "https://mastodon.kempkens.io/@daniel"
+url = "https://networked.systems/@daniel"
 rel = "me"
 
 [[params.social]]
